@@ -145,6 +145,10 @@ h3 {
   width: 25%;
 }
 
+.footer-der {
+  width: 35%;
+}
+
 .grid {
   width: 100%;
   display: grid;

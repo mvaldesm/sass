@@ -1,0 +1,28 @@
+{
+  "name": "hll.xyz",
+  "version": "1.0.0",
+  "description": "Juego multijugador de la II Guerra Mundial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvaldesm/sass.git"
+  },
+  "author": "Marco Valdes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvaldesm/sass/issues"
+  },
+  "homepage": "https://github.com/mvaldesm/sass#readme",
+  "keywords": [
+    "Hell Let Loose",
+    "Garrisons",
+    "Steam"
+  ],
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "sass": "^1.51.0"
+  }
+}
